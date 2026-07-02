@@ -126,5 +126,5 @@ python volume_render.py \
 
 --- 
 
-**Submitted By**: Lt Cdr Piyush Tiwari
+**Submitted By**: Piyush Tiwari
 **Student ID**: 241040099
