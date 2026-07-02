@@ -1,6 +1,6 @@
 CS661 Assignment 1 Submission
 ============================
-Name: Lt Cdr Piyush Tiwari
+Name: Piyush Tiwari
 Student ID: 241040099
 
 Required Setup
